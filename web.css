@@ -493,7 +493,9 @@ color: #eee;
     display: none;
 }
 
-
+.socialslinks{
+    color:var(--yellow);
+}
 
 
 
